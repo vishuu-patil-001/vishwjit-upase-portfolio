@@ -4,7 +4,7 @@
 
 A cinematic developer portfolio showcasing my journey in software engineering, full-stack development, and Generative AI.
 
-🌐 **Portfolio:** [Visit the live portfolio](https://github.com/vishuu-patil-001/vishwjit-upase-portfolio)
+🌐 **Live Portfolio:** [Visit my portfolio](https://vishwjit-upase-portfolio.vercel.app/)
 
 ## About Me
 
