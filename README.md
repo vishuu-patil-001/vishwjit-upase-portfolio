@@ -12,23 +12,7 @@ I'm Vishwjit Upase, a B.E. Information Technology undergraduate graduating in 20
 
 My featured projects are **TripMind AI**, a multi-agent travel planner, and **AppliJobTrack**, a full-stack job application tracker.
 
-## Featured Projects
 
-### 1. TripMind AI
-
-A multi-agent AI travel planner designed to coordinate travel research and itinerary generation.
-
-- **Technologies:** Python, FastAPI, LangGraph, LangChain, Groq LLM, MCP, PostgreSQL, Redis, Docker.
-- **Live Demo:** https://trip-mind-ai-tau.vercel.app/
-- **Source Code:** https://github.com/vishuu-patil-001/TripMind-AI
-
-### 2. AppliJobTrack
-
-A full-stack job application tracker for managing application progress, interviews, offers, and analytics.
-
-- **Technologies:** MongoDB, Express.js, React, Node.js, JWT, bcrypt, Recharts.
-- **Live Demo:** https://applijobtrack.onrender.com/login
-- **Source Code:** https://github.com/vishuu-patil-001/AppliJobTrack
 
 ## Portfolio Features
 
