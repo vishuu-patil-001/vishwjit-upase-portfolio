@@ -1,10 +1,10 @@
-# V Series — Vishwjit Upase
+# Portfolio — Vishwjit Upase
 
 **Software Development Engineer | AI & Generative AI**
 
 A cinematic developer portfolio showcasing my journey in software engineering, full-stack development, and Generative AI.
 
-🌐 **Live Portfolio:** [Visit my portfolio](https://vishwjit-upase-portfolio.vercel.app/)
+🌐 **Live Portfolio:** [Visit my portfolio,Here..](https://vishwjit-upase-portfolio.vercel.app/)
 
 ## About Me
 
@@ -126,12 +126,6 @@ vishwjit-upase-portfolio/
 ```
 
 *The structure above highlights key files; individual folders may contain additional files.*
-
-## Acknowledgements
-
-This portfolio was customized from an existing portfolio template. The design and underlying implementation may retain elements of the original template.
-
-This personal portfolio is not affiliated with or endorsed by Netflix or any streaming service.
 
 ---
 
